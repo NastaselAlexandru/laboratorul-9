@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\alexandru\source\repos\lab9\project1\project1\source.cpp(24): error C4700: uninitialized local variable 'a' used
